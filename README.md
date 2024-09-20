@@ -27,8 +27,10 @@ This RAG is created using vectara API and wrapped using fetchs' uAgents. It is d
   - Once your agent is create click on ![Screenshot 2024-09-20 at 16 53 23](https://github.com/user-attachments/assets/5fda6cb1-c7e9-47ae-89a2-07bd3d7bdf4d).
 
 # Using agent on deltaV
+  [Watch the video on YouTube](https://youtu.be/5IliBuMlhc8)
   - Use the below video for reference on how to use this on [deltaV](https://deltav.agentverse.ai/).
 
+If you want to access this agent go to [DeltaV](https://deltav.agentverse.ai/home) and select Public Function Group.
 
 # NOTE :
 
