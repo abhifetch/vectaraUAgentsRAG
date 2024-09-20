@@ -1,5 +1,5 @@
 # vectara UAgents RAG
-This RAG is created vectara API and wrapper using fetchs' uAgents on Agentverse. This answers all your queries related to fetch uagents.
+This RAG is created using vectara API and wrapped using fetchs' uAgents. It is deployed Agentverse. This answers all your queries related to fetch uagents.
 
 # Creating Account on Vectara and creating corpus
   - Create an account on (Vectara)[https://vectara.com/].
