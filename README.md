@@ -2,8 +2,8 @@
 This RAG is created using vectara API and wrapped using fetchs' uAgents. It is deployed Agentverse. This answers all your queries related to fetch uagents.
 
 # Creating Account on Vectara and creating corpus
-  - Create an account on (Vectara)[https://vectara.com/].
-  - Goto the (Console)[https://console.vectara.com/console/corpora] and create new corpus for yourself using (https://github.com/user-attachments/assets/4c4317c6-e324-4389-8b96-8dc984dc2f86) button.
+  - Create an account on [Vectara](https://console.vectara.com/signup/?utm_source=hackathon&utm_medium=guide&utm_term=DevRel&utm_content=hacker-guide&utm_campaign=hackathon-guide-DevRel-hacker-guide).
+  - Goto the [Console](https://console.vectara.com/console/corpora) and create a new corpus for yourself using the [Create Corpus](https://github.com/user-attachments/assets/4c4317c6-e324-4389-8b96-8dc984dc2f86) button.
   - Decide the type of application later and give `name` and `key` for your corupus here. In our case it is `fetchai-docs-explorer`. The corpus key will be used to make API calls to the corpus.
   - Get the `API_KEY` from [Authorisation](https://console.vectara.com/console/apiAccess/personalApiKey) in menu.
 
@@ -11,6 +11,10 @@ This RAG is created using vectara API and wrapped using fetchs' uAgents. It is d
   - Goto your corpus and click `data` tab.
   - Click on ![Screenshot 2024-09-20 at 16 44 20](https://github.com/user-attachments/assets/2b91d888-048d-45af-83a8-c8127af861e4) and add data by clicking on ![Screenshot 2024-09-20 at 16 44 53](https://github.com/user-attachments/assets/4c3a8330-698a-4122-9eb0-77a5f26592a7) button.
   - You can upload text, HTML, PDF, Word and other files here.
+
+Other resources:
+* Vectara API [docs](docs.vectara.com)
+* OSS tool to help crawl and ingest data from other sources - [vectara-ingest](https://github.com/vectara/vectara-ingest)
 
 # Creating Agentverse Agent
   - Goto [Agentverse](https://agentverse.ai/) and login using google.
