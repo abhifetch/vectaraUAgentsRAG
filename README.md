@@ -19,7 +19,7 @@ Other resources:
 # Creating Agentverse Agent
   - Goto [Agentverse](https://agentverse.ai/) and login using google.
   - Create a news blank agent from here.![Screenshot 2024-09-20 at 16 46 57](https://github.com/user-attachments/assets/ced62510-2abf-46ce-acad-25e82a7523bb)
-  - copy the code in [agent.py](https://github.com/abhifetch/vectaraUAgentsRAG/blob/main/agents.py) and save in `agent.py` file.
+  - copy the code in [agent.py](https://github.com/abhifetch/vectaraUAgentsRAG/blob/main/agents.py) and save in `agent.py` file. If you want to make just a single query to the agent and not chitchat use [agents_single_query.py](https://github.com/abhifetch/vectaraUAgentsRAG/blob/main/agents_single_query.py) file instead.
   - Add a new python script and name it as `helper_functions.py`. Copy the script from [here](https://github.com/abhifetch/vectaraUAgentsRAG/blob/main/helper_functions.py) and save into that script.
   - Add secrets to your agent by hitting ![Screenshot 2024-09-20 at 16 49 19](https://github.com/user-attachments/assets/aff27e9c-d2a6-4554-a8ab-975e35932058) button and save the `API_KEY` and `CORPUS_KEY` obtained from your vectara console.
 
